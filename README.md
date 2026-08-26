@@ -3,12 +3,13 @@
 > **Smart India Hackathon Submission**
 > **Problem Statement ID:** ID26032
 > **Problem Statement Title:** Farmers often face long waiting times, lack of information regarding procurement schedules, and uncertainty about procurement status.
-> **Theme:** Agriculture, Food Technology & Rural Development
+> **Organization:** Ministry of Consumer Affairs, Food & Public Distribution
+> **Department:** Department of Consumer Affairs (DoCA) 
 > **PS Category:** Software
 
 ---
 
-##  Team Details — Team [Devil Genius]
+##  Team Details — Team [Evil Geniuses]
 ---
 
 ##  Executive Summary

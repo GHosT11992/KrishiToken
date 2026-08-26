@@ -28,7 +28,7 @@ Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in I
 * **Dynamic Capacity-Based Scheduling:** Algorithmically calculates daily intake limits per Mandi (based on weighbridge capacity and labor strength) to prevent overbooking.
 * **Omnichannel Access for Rural Adoption**
 * **Smartphones:** Web & App interface (React / React Native).
-* **Feature Phones / Offline:** Interactive SMS, USSD codes, and IVR toll-free booking.
+* **Feature Phones / Offline:** Interactive SMS, and IVR toll-free booking.
 
 
 

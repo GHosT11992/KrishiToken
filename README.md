@@ -14,7 +14,7 @@
 
 ##  Executive Summary
 
-Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in India face massive traffic congestion during peak harvest seasons. Farmers often travel long distances only to endure prolonged waiting times (often 1 to 3 days), lack visibility into daily procurement capacities, and suffer from uncertainty regarding crop acceptance and payment disbursal.
+Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in India face massive traffic congestion during peak harvest seasons. Farmers often travel long distances only to endure prolonged waiting times (often 1 to 3 days), lack visibility into daily procurement capacities, and suffer from uncertainty regarding crop health, crop acceptance and payment disbursal.
 
 **KrishiToken** is an end-to-end, multi-channel platform that digitizes procurement schedules, automates token generation, provides live queue tracking, and provides real-time updates via SMS and WhatsApp. Built to bridge the digital divide in rural India, it streamlines Mandi operations, minimizes crop spoilage, and guarantees direct benefit transfer (DBT) payment visibility.
 

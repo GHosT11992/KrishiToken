@@ -26,7 +26,7 @@ Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in I
 
 * **Aadhaar & Farmer ID Integration:** Verifies landholdings and eligibility through seamless integration with PM-KISAN / State Land Record databases.
 * **Dynamic Capacity-Based Scheduling:** Algorithmically calculates daily intake limits per Mandi (based on weighbridge capacity and labor strength) to prevent overbooking.
-* **Omnichannel Access for Rural Adoption:**
+* **Omnichannel Access for Rural Adoption**
 * **Smartphones:** Web & App interface (React / React Native).
 * **Feature Phones / Offline:** Interactive SMS, USSD codes, and IVR toll-free booking.
 

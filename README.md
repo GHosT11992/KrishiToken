@@ -58,7 +58,7 @@ $$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Qu
 
 * **Frontend:** React.js, Tailwind CSS (Admin / Web Portal) & React Native / Flutter (Farmer App)
 * **Backend:** Node.js (Express) / Python (FastAPI)
-* **Database & Caching:** PostgreSQL (Relational Data), Redis (Real-Time Token Processing)
+* **Database & Caching:** PostgreSQL (Relational Data), Redis (Real-Time Token Processing), Firebase.
 * **Communication Gateways:** Twilio / Gupshup / Exotel (SMS & IVR Integration), Firebase Cloud Messaging (FCM)
 * **Integrations:** Mock APIs for PM-KISAN, PFMS (Public Financial Management System), and Aadhaar e-KYC
 * **DevOps & Cloud:** Docker, NGINX, AWS / GCP Cloud Platforms

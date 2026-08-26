@@ -45,7 +45,7 @@ Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in I
 
 ###  4. Procurement & Payment Status Tracking
 
-* **IoT Weighbridge Sync:** Direct weight input integration to eliminate manual tally sheet manipulation.
+
 * **Transparent Lifecycle Tracker:**
 
 $$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Quality Check} \longrightarrow \text{Weighment} \longrightarrow \text{Invoice Generated} \longrightarrow \text{DBT Disbursed}$$

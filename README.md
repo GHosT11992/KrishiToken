@@ -9,7 +9,7 @@
 
 ---
 
-##  Team Details — Team [Evil Geniuses]
+##  Team Details — Team [Evil Genius]
 ---
 
 ##  Executive Summary

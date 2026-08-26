@@ -1,4 +1,4 @@
-## 🌾 KrishiToken (कृषि-टोकन) | Smart Farmer Slot Booking & Real-Time Queue Management System
+## KrishiToken (কৃষি-টোকেন) | Smart Farmer Slot Booking & Real-Time Queue Management System
 
 > **Smart India Hackathon Submission**
 > **Problem Statement ID:** ID26032
@@ -8,10 +8,10 @@
 
 ---
 
-## 👥 Team Details — Team [Devil Genius]
+##  Team Details — Team [Devil Genius]
 ---
 
-## 📌 Executive Summary
+##  Executive Summary
 
 Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in India face massive traffic congestion during peak harvest seasons. Farmers often travel long distances only to endure prolonged waiting times (often 1 to 3 days), lack visibility into daily procurement capacities, and suffer from uncertainty regarding crop acceptance and payment disbursal.
 
@@ -19,9 +19,9 @@ Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in I
 
 ---
 
-## ✨ Core Features & SIH Innovation Highlights
+##  Core Features & SIH Innovation Highlights
 
-### 🧑‍🌾 1. Smart Registration & Capacity-Aware Slot Booking
+###  1. Smart Registration & Capacity-Aware Slot Booking
 
 * **Aadhaar & Farmer ID Integration:** Verifies landholdings and eligibility through seamless integration with PM-KISAN / State Land Record databases.
 * **Dynamic Capacity-Based Scheduling:** Algorithmically calculates daily intake limits per Mandi (based on weighbridge capacity and labor strength) to prevent overbooking.
@@ -31,18 +31,18 @@ Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in I
 
 
 
-### ⏳ 2. Real-Time Queue & Mandi Management
+###  2. Real-Time Queue & Mandi Management
 
 * **Digital Token & QR Verification:** Generates a unique QR-coded digital pass upon slot confirmation.
 * **Live Counter Status:** Displays active token calls on physical Mandi digital boards and within the app.
 * **Adaptive Delay Adjustments:** Auto-adjusts downstream slots in real-time during weather delays or operational lags, sending instant alerts to incoming farmers.
 
-### 📲 3. Multilingual SMS & Voice Alerts
+###  3. Multilingual SMS & Voice Alerts
 
 * **Turn Alerts:** Automated localized SMS alerts sent when a farmer's turn is within 5–10 tokens.
 * **Vernacular Support:** Local language support (Hindi, Tamil, Telugu, Punjabi, Bengali, Marathi, etc.) for both voice IVR and text messages.
 
-### 💳 4. Procurement & Payment Status Tracking
+###  4. Procurement & Payment Status Tracking
 
 * **IoT Weighbridge Sync:** Direct weight input integration to eliminate manual tally sheet manipulation.
 * **Transparent Lifecycle Tracker:**
@@ -54,7 +54,7 @@ $$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Qu
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **Frontend:** React.js, Tailwind CSS (Admin / Web Portal) & React Native / Flutter (Farmer App)
 * **Backend:** Node.js (Express) / Python (FastAPI)
@@ -65,7 +65,7 @@ $$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Qu
 
 ---
 
-## 📊 SIH Impact Assessment & Expected Outcomes
+##  SIH Impact Assessment & Expected Outcomes
 
 | Metric | Traditional Mandi Process | KrishiToken Implementation |
 | --- | --- | --- |

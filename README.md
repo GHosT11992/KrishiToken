@@ -74,7 +74,7 @@ $$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Qu
 | **Crowd & Traffic Congestion** | Heavy Bottlenecks & Chaos | **Smooth 15-Minute Staggered Arrivals** |
 | **Payment Visibility** | Manual / Opaque (15-45 Days) | **Step-by-Step Live Tracking (1-3 Days DBT)** |
 | **Mandi Capacity Utilization** | Unbalanced (Overcrowded / Idle) | **Optimized & Load-Balanced Across District** |
-| **Operational Spoilage Loss** | High (Exposure to rain/heat) | **Near Zero** |
+
 
 ---
 

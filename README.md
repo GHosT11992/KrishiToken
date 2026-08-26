@@ -41,7 +41,7 @@ Agricultural procurement centers (Mandis / Paddy & Crop Collection Centers) in I
 ###  3. Multilingual SMS & Voice Alerts
 
 * **Turn Alerts:** Automated localized SMS alerts sent when a farmer's turn is within 5–10 tokens.
-* **Vernacular Support:** Local language support (Hindi, Tamil, Telugu, Punjabi, Bengali, Marathi, etc.) for both voice IVR and text messages.
+* **Vernacular Support:** Local language support (Hindi, Tamil, Telugu, Punjabi, Bengali, Marathi, etc.).
 
 ###  4. Procurement & Payment Status Tracking
 

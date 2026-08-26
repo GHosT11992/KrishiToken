@@ -42,7 +42,9 @@ Farmers in rural India face severe operational and financial friction during cro
 
 ## 📲 3. Multilingual SMS & Voice AlertsTurn Alerts: Automated localized SMS alerts sent when a farmer's turn is within 5–10 tokens. Vernacular Support: Local language support (Hindi, Tamil, Telugu, Punjabi, Bengali, Marathi, etc.) for both voice IVR and text messages.
 
-## 💳 4. Procurement & Payment Status Tracking IoT Weighbridge Sync: Direct weight input integration to eliminate manual tally sheet manipulation.Transparent Lifecycle Tracker:$$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Quality Check} \longrightarrow \text{Weighment} \longrightarrow \text{Invoice Generated} \longrightarrow \text{DBT Disbursed}$$Payment Grievance Redressal: Built-in ticketing module for tracking delayed Direct Benefit Transfers (DBT) to bank accounts.
+## 💳 4. Procurement & Payment Status Tracking IoT Weighbridge Sync: Direct weight input integration to eliminate manual tally sheet manipulation. Transparent Lifecycle Tracker: {Slot Booked} ---> {Mandi Entry} ---> {Quality Check} ---> {Weighment} ---> {Invoice Generated} ---> {DBT Disbursed}
+
+Payment Grievance Redressal: Built-in ticketing module for tracking delayed Direct Benefit Transfers (DBT) to bank accounts.
 
 
 ## Tech Stack

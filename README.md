@@ -34,12 +34,17 @@ Farmers in rural India face severe operational and financial friction during cro
 
 ---
 
-✨ Core Features & SIH Innovation Highlights
-🧑‍🌾 1. Smart Registration & Capacity-Aware Slot BookingAadhaar & Farmer ID Integration: Verifies landholdings and eligibility through seamless integration with PM-KISAN / State Land Record databases.Dynamic Capacity-Based Scheduling: Algorithmically calculates daily intake limits per Mandi (based on weighbridge capacity and labor strength) to prevent overbooking.Omnichannel Access for Rural Adoption:Smartphones: Web & App interface (React / React Native).Feature Phones / Offline: Interactive SMS, USSD codes, and IVR toll-free booking.
+## ✨ Core Features & SIH Innovation Highlights
 
-⏳ 2. Real-Time Queue & Mandi Management Digital Token & QR Verification: Generates a unique QR-coded digital pass upon slot confirmation. Live Counter Status: Displays active token calls on physical Mandi digital boards and within the app. Adaptive Delay Adjustments: Auto-adjusts downstream slots in real-time during weather delays or operational lags, sending instant alerts to incoming farmers.
+## 🧑‍🌾 1. Smart Registration & Capacity-Aware Slot BookingAadhaar & Farmer ID Integration: Verifies landholdings and eligibility through seamless integration with PM-KISAN / State Land Record databases.Dynamic Capacity-Based Scheduling: Algorithmically calculates daily intake limits per Mandi (based on weighbridge capacity and labor strength) to prevent overbooking.Omnichannel Access for Rural Adoption:Smartphones: Web & App interface (React / React Native).Feature Phones / Offline: Interactive SMS, USSD codes, and IVR toll-free booking.
 
-📲 3. Multilingual SMS & Voice AlertsTurn Alerts: Automated localized SMS alerts sent when a farmer's turn is within 5–10 tokens. Vernacular Support: Local language support (Hindi, Tamil, Telugu, Punjabi, Bengali, Marathi, etc.) for both voice IVR and text messages.💳 4. Procurement & Payment Status Tracking IoT Weighbridge Sync: Direct weight input integration to eliminate manual tally sheet manipulation.Transparent Lifecycle Tracker:$$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Quality Check} \longrightarrow \text{Weighment} \longrightarrow \text{Invoice Generated} \longrightarrow \text{DBT Disbursed}$$Payment Grievance Redressal: Built-in ticketing module for tracking delayed Direct Benefit Transfers (DBT) to bank accounts.
+## ⏳ 2. Real-Time Queue & Mandi Management Digital Token & QR Verification: Generates a unique QR-coded digital pass upon slot confirmation. Live Counter Status: Displays active token calls on physical Mandi digital boards and within the app. Adaptive Delay Adjustments: Auto-adjusts downstream slots in real-time during weather delays or operational lags, sending instant alerts to incoming farmers.
+
+## 📲 3. Multilingual SMS & Voice AlertsTurn Alerts: Automated localized SMS alerts sent when a farmer's turn is within 5–10 tokens. Vernacular Support: Local language support (Hindi, Tamil, Telugu, Punjabi, Bengali, Marathi, etc.) for both voice IVR and text messages.
+
+## 💳 4. Procurement & Payment Status Tracking IoT Weighbridge Sync: Direct weight input integration to eliminate manual tally sheet manipulation.Transparent Lifecycle Tracker:$$\text{Slot Booked} \longrightarrow \text{Mandi Entry} \longrightarrow \text{Quality Check} \longrightarrow \text{Weighment} \longrightarrow \text{Invoice Generated} \longrightarrow \text{DBT Disbursed}$$Payment Grievance Redressal: Built-in ticketing module for tracking delayed Direct Benefit Transfers (DBT) to bank accounts.
+
+
 ## Tech Stack
 - React.js
 - Node.js
